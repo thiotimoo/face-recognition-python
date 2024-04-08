@@ -1,0 +1,15 @@
+autocommand==2.2.2
+inflect==7.2.0
+jaraco.context==5.3.0
+jaraco.env==1.0.0
+jaraco.functools==4.0.0
+jaraco.text==3.12.0
+more-itertools==10.2.0
+numpy==1.26.4
+opencv-python==4.9.0.80
+packaging==24.0
+path==16.13.0
+pip-run==12.6.1
+platformdirs==4.2.0
+typeguard==4.2.1
+typing_extensions==4.11.0
